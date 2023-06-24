@@ -1,0 +1,15 @@
+:root {
+    --background-color:
+} 
+
+body{
+    background-color: var(--background-color);
+}
+
+.clock {
+    text-align: center;
+    margin-top: 450px;
+    font-size: 300%;
+    font-family: serif;
+    color: white;
+}
